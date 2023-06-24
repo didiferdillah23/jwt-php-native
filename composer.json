@@ -1,0 +1,18 @@
+{
+    "name": "tdf23/jwt-php-native",
+    "autoload": {
+        "psr-4": {
+            "Tdf23\\JwtPhpNative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "didiferdillah23",
+            "email": "tdf23503@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "firebase/php-jwt": "^6.8"
+    }
+}
